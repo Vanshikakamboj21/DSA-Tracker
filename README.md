@@ -30,8 +30,11 @@ It helps users track solved questions, revise topics, and stay consistent in the
 DSA-Tracker/
 │
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 
