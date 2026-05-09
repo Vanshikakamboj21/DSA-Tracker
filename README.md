@@ -52,7 +52,7 @@ Track solved problems easily
 
 Vanshika Kamboj
 
-GitHub: https://github.com/Vanshikakamboj21
+GitHub: https://github.com/Vanshikakamboj21/
 
 ⭐ If you like this project
 
